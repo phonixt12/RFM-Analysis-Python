@@ -3,6 +3,9 @@
 **RFM (Recency-Frequency-Monetary)** analysis is a technique for behavior-based customer segmentation. This method involves grouping customers according to their purchasing records, specifically considering how recently, how frequently, and how much they have made purchases. RFM is a useful tool for identifying and understanding the behavior of the most valuable customers. 
 
 The goal of this case study : analyze dataset , find out problems , gain insights and provide solution 
+ 
+ 
+ 
  {
    "cell_type": "code",
    "execution_count": 1,
