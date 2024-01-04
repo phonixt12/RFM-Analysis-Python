@@ -12,17 +12,17 @@ The goal of this case study : analyze dataset , find out problems , gain insight
    "metadata": {},
    "outputs": [],
    "source": [
-     "  #Import library \n"
-"  import pandas as pd\n"
-"  import datetime as dt\n"
-"  import seaborn as sns\n"
-"  import matplotlib.pyplot as plt\n"
-"  !pip install squarify\n"
-" import squarify as sq \n"
-"  #Get data from excel\n"
-"  eco = pd.read_excel('C:/Users/phoni/Downloads/Final_project_RFM/Final_project_RFM/ecommerce retail.xlsx', sheet_name='ecommerce retail')\n"
+     "  #Import library \n",
+"  import pandas as pd\n",
+"  import datetime as dt\n",
+"  import seaborn as sns\n",
+"  import matplotlib.pyplot as plt\n",
+"  !pip install squarify\n",
+" import squarify as sq \n",
+"  #Get data from excel\n",
+"  eco = pd.read_excel('C:/Users/phoni/Downloads/Final_project_RFM/Final_project_RFM/ecommerce retail.xlsx', sheet_name='ecommerce retail')\n",
 "  seg = pd.read_excel('C:/Users/phoni/Downloads/Final_project_RFM/Final_project_RFM/ecommerce retail.xlsx', sheet_name='Segmentation')
-\n"
+\n",
 
 
    ]
