@@ -1,5 +1,5 @@
 # RFM-Analysis-Python
-<img src=">https://raw.githubusercontent.com/phonixt12/RFM-Analysis-Python/main/images/Incontent_image.png" align="center" width="500" height="450" >
+<img src="https://raw.githubusercontent.com/phonixt12/RFM-Analysis-Python/main/images/Incontent_image.png" align="center" width="500" height="450" >
 
 
 #### Definition of RFM analyis
