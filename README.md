@@ -17,4 +17,4 @@ The monetary value serves as a distinguishing factor, delineating heavy spenders
 
 
 # The Case Study
-This case study use to demonstrate my skill in python. In this case study, the bussines's condition is aznalyzed by author accroding in dataset. Author will give some views about business's situations, give insight and solution. This is the link of case study : [Link](https://github.com/phonixt12/RFM-Analysis-Python/blob/main/RFM%20analysis%20.ipynb)  and the link of data : [Link]()
+This case study use to demonstrate my skill in python. In this case study, the bussines's condition is aznalyzed by author accroding in dataset. Author will give some views about business's situations, give insight and solution. This is the link of case study : [Link](https://github.com/phonixt12/RFM-Analysis-Python/blob/main/RFM%20analysis%20.ipynb)  and the link of data : [Link](https://github.com/phonixt12/RFM-Analysis-Python/blob/main/ecommerce%20retail.xlsx)
