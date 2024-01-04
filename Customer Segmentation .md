@@ -6,27 +6,10 @@
    "source": [
     "# RFM Analysis in Python - Customer Segmentation\n",
     "\n",
-    "**Customer Segmentation** :  involves the systematic grouping of customers based on shared characteristics. It will support in marketing campagain , including targeted campaigns, and the cultivation of customer loyalty. Companies typically segment their customerin some metrics : encompassing demographics (such as age, gender, and location), behavior (including past orders and responses to messaging), and psychographics (involving values, interests, and lifestyles) .\n",
+    "**Customer segmentation** is the practice of grouping customers based on common characteristics. These customer segments are beneficial in marketing campaigns, in identifying potentially profitable customers, and in developing customer loyalty. A company might segment customers according to a wide range of factors, including: demographics (age, gender, location etc), behaviour (previous orders, responses to messaging), psychographics (values, interests, lifestyles) etc.\n",
     "\n",
-    "**RFM (Recency-Frequency-Monetary)** analysis is a technique for behavior-based customer segmentation. This method involves grouping customers according to their purchasing records, specifically considering how recently, how frequently, and how much they have made purchases. RFM is a useful tool for identifying and understanding the behavior of the most valuable customers.\n",
+    "**RFM (Recency-Frequency-Monetary)** analysis is a simple technique for behaviour based customer segmentation. It groups customers based on their transaction history – how recently, how often and how much did they buy. It is a handy method to find the best customers, understand their behavior and then run targeted marketing campaigns to increase sales, satisfaction and customer lifetime value.\n",
     "\n",
-    "The goal of this case study : analyze dataset , find out problems , gain insights and provide solution ."
-   ]
-  },
-{
-   "cell_type": "code",
-   "execution_count": 1,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "import pandas as pd\n",
-    "import numpy as np\n",
-    "from datetime import datetime\n",
-    "import matplotlib.pyplot as plt\n",
-    "import seaborn as sns\n",
-    "import squarify\n",
-    "import json\n",
-    "\n",
-    "pd.options.display.float_format = '{:,.2f}'.format"
+    "The goal of this analysis is to identify customer segments for global retail company using RFM analysis and to understand how those groups differ from each other."
    ]
   },
