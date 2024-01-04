@@ -1,4 +1,5 @@
 # RFM-Analysis-Python
+<p align="center">
 <img src="https://raw.githubusercontent.com/phonixt12/RFM-Analysis-Python/main/images/Incontent_image.png" align="center" width="800" height="450" >
 
 
