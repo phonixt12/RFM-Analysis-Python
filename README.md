@@ -16,6 +16,7 @@ The recency of a purchase positively correlates with the customer's responsivene
 This case study was used to demonstrate my skill in Python. In this case study, the business's condition is analysed by the author using a dataset. The author will give some views about the business's situations and give insight and solutions. This is the link to the case study : [Link](https://github.com/phonixt12/RFM-Analysis-Python/blob/main/RFM%20analysis%20.ipynb)  and the link of data : [Link](https://github.com/phonixt12/RFM-Analysis-Python/blob/main/ecommerce%20retail.xlsx)
 
 # I.Introduction 
+
 **1.Business need**
  "SuperStore Company is an international retailer." Consequently, the business has numerous consumers.
 In recognition of the upcoming holidays and the new year, the Marketing Department intends to execute promotional campaigns to express gratitude to customers for their continued support. In addition to capitalising on consumers who possess the capacity to develop loyalty.
@@ -33,21 +34,29 @@ Dataset includes 2 different related tables including: transaction informatio fr
 
 
 ![image](https://github.com/phonixt12/RFM-Analysis-Python/assets/139587231/706c194f-1667-4380-8bfd-ebe01b64933a)
+
 **Segmentation dataframe**
+
 ![image](https://github.com/phonixt12/RFM-Analysis-Python/assets/139587231/bd683489-b903-49d1-b60b-4fe761b9e9a4)
+
 ![image](https://github.com/phonixt12/RFM-Analysis-Python/assets/139587231/2dc71000-55ef-49bc-be9c-e268975248fb)
 
 
+
 ![image](https://github.com/phonixt12/RFM-Analysis-Python/assets/139587231/fcf3c80b-6d86-4b7a-8008-85ccf77f777f)
+
 ![image](https://github.com/phonixt12/RFM-Analysis-Python/assets/139587231/515a442d-55cb-4524-ba28-534254fd420d)
 
 
 ![image](https://github.com/phonixt12/RFM-Analysis-Python/assets/139587231/af2fcadd-75d5-41db-8554-030688c99af5)
+
+
 ![image](https://github.com/phonixt12/RFM-Analysis-Python/assets/139587231/5e1b6ef8-77e0-497a-ad50-dd8e2bac771e)
 
 ![image](https://github.com/phonixt12/RFM-Analysis-Python/assets/139587231/6a079af8-4aa1-4179-b79a-316b781cd9c4)
 
 **3 .Insight and recommandation** 
+
 **Insight**
 
 The data presented in the table reveals a notable high mean value for Recency, indicating that customers are inclined to discontinue their association with Superstore in the future. Conversely, there is an absence of positive signals in Frequency, with a mean value of 4.3, falling below the normal range, and a median of 2, signaling a significant concern for SuperStore. Despite these challenges, the Monetary aspect exhibits a positive side, with a mean value exceeding 2000
