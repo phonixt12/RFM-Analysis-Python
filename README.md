@@ -27,14 +27,14 @@ The Marketing Director also suggested using the RFM model, but in the past when 
 Dataset includes 2 different related tables including: transaction informationfrom 2011 to 2012 and RFM classification
 - **Transaction information dataframe**
 
-  ![image](https://github.com/phonixt12/RFM-Analysis-Python/assets/139587231/ccdcd9ad-e88d-4a93-868f-b1bedcfcc170)"/n"
+  ![image](https://github.com/phonixt12/RFM-Analysis-Python/assets/139587231/ccdcd9ad-e88d-4a93-868f-b1bedcfcc170)
 
 ![image](https://github.com/phonixt12/RFM-Analysis-Python/assets/139587231/ad0b1f71-5eb3-40c0-b608-f29b35b35638)
 
 - 
 
 - **Segmentation dataframe**: 
- ![image](https://github.com/phonixt12/RFM-Analysis-Python/assets/139587231/6f409e3a-70f7-4af8-992e-976018ebe468)"/n"
+ ![image](https://github.com/phonixt12/RFM-Analysis-Python/assets/139587231/6f409e3a-70f7-4af8-992e-976018ebe468)
 
 ![image](https://github.com/phonixt12/RFM-Analysis-Python/assets/139587231/b440d189-e4f0-4787-94eb-6bdf61c48626)
 
