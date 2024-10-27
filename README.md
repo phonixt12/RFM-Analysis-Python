@@ -33,7 +33,7 @@ Dataset includes 2 different related tables including: transaction informationfr
 
 - 
 
-- **Segmentation dataframe**: 
+- **Segmentation dataframe**: <br>
  ![image](https://github.com/phonixt12/RFM-Analysis-Python/assets/139587231/6f409e3a-70f7-4af8-992e-976018ebe468)
 
 ![image](https://github.com/phonixt12/RFM-Analysis-Python/assets/139587231/b440d189-e4f0-4787-94eb-6bdf61c48626)
